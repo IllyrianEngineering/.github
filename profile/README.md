@@ -6,9 +6,9 @@
       <img src="https://github.com/Structura-Engineering/.github/blob/main/icons/sten_short_logo.svg" alt="STEN Logo" width="200">
     </a>
   <br><br>
-  Structura Engineering
+  Illyria
   <br>
   <br>
 </h1>
 
-<h4 align="center">Structura-Engineering is a one-manned company aiming to expand & improve the usability and functions of CAD-software.</h4>
+<h4 align="center">Illyria is a one-manned company aiming to expand & improve the usability and functions of CAD-software.</h4>
