@@ -2,13 +2,13 @@
 
 <h1 align="center">
   <br>
-    <a href="https://IllyrianEngineering.com/">
-      <img src="https://github.com/IllyrianEngineering/.github/blob/main/icons/illyria_short_logo.svg" alt="Illyrian Engineering Logo" width="200">
+    <a href="https://illyrion.eu/">
+      <img src="https://github.com/illyrionsoftware/.github/blob/main/icons/illyria_short_logo.svg" alt="Illyrion Logo" width="200">
     </a>
   <br><br>
-  Illyria
+  Illyrion
   <br>
   <br>
 </h1>
 
-<h4 align="center">Illyria is a one-manned company aiming to expand & improve the usability and functions of CAD-software.</h4>
+<h4 align="center">Illyrion is a one-manned company aiming to expand & improve the usability and functions of CAD-software.</h4>
