@@ -11,4 +11,4 @@
   <br>
 </h1>
 
-<h4 align="center">Illyrion is a one-manned company aiming to expand & improve the usability and functions of CAD-software.</h4>
+<h4 align="center">Open-Source (CAD) Software Company aiming to expand & improve the usability and functions of CAD-software.</h4>
