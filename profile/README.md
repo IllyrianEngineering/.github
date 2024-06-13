@@ -3,7 +3,7 @@
 <h1 align="center">
   <br>
     <a href="https://illyrion.eu/">
-      <img src="https://github.com/illyrionsoftware/.github/blob/main/icons/illyria_short_logo.svg" alt="Illyrion Logo" width="200">
+      <img src="https://github.com/IllyrionSoftware/.github/blob/main/icons/illyrion.svg" alt="Illyrion Logo" width="256">
     </a>
   <br><br>
   Illyrion
